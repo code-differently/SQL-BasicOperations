@@ -1,4 +1,4 @@
 UPDATE Students
 SET City = 'Edinburgh',
-    Country = 'Scotland'
+SET Country = 'Scotland'
 WHERE StudentID = 35;

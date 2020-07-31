@@ -1,3 +1,3 @@
 ALTER TABLE Users
 DROP COLUMN NickName,
-    COLUMN Suffix;
+DROP COLUMN Suffix;
