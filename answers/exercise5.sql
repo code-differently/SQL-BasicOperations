@@ -1,0 +1,7 @@
+CREATE TABLE users(
+	user_id INT NOT NULL AUTO_INCREMENT,
+	last_name VARCHAR(255) NOT NULL,
+	first_name VARCHAR(255) NOT NULL,
+	address VARCHAR(255) NOT NULL,
+	city VARCHAR(255) NOT NULL,
+	PRIMARY KEY (user_id));
