@@ -1,0 +1,3 @@
+ALTER TABLE Users
+CHANGE COLUMN FirstName TO First_Name;
+CHANGE COLUMN LastName TO Last_Name;
