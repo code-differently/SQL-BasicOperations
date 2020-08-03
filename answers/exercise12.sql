@@ -1,0 +1,2 @@
+ALTER TABLE Users
+CHANGE COLUMN MiddleName TO Initial;
