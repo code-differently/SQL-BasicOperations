@@ -1,0 +1,2 @@
+ALTER COLUMN Users
+CHANGE MiddleName Initial VARCHAR(64);
